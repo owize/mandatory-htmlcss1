@@ -1,0 +1,106 @@
+body{
+  background: #FCD612;
+}
+
+.bodyprofile {
+  background: #F9C31A;
+}
+
+header{
+  text-align: center;
+  border:10px;
+  border-style: solid;
+  background:  #FCD612;
+  font-family: 'Playfair Display SC', serif;
+
+}
+
+.indeximage{
+  float: left;
+}
+
+.welcomemsg{
+margin-top: 150px;
+  float: left;
+  font-size: 50px;
+}
+
+.mainprofile{
+
+text-align: center;
+}
+
+
+
+footer{
+  text-align: right;
+  font-family: 'Playfair Display SC', serif;
+  clear: both;
+
+  position: static;
+
+}
+
+
+
+li{
+  display: inline;
+  padding: 30px;
+  font-size: 25px;
+  border: 5px;
+  font-family: 'Playfair Display SC', serif;
+}
+
+
+
+a{
+text-decoration: none;
+color: black;
+}
+
+button {
+  background-color: #F9C31A;
+  border: none;
+  padding: 16px 32px;
+}
+
+#current{
+  background:  #FCD612;
+}
+
+
+button:hover {background-color:#D61A1F }
+
+table{
+  border-collapse: collapse; width: 100%;
+}
+
+table, td, th {border: 3px solid black; padding: 20px;}
+
+table{border-radius: 5px;}
+
+thead {
+  font-size: 20px;
+}
+
+tbody >tr:nth-child(odd) {background-color: #FCD612}
+
+
+tr :first-child {font-size: 20px;}
+tr :last-child {color: #D61A1F; font-size: 20px;}
+
+
+
+fieldset{
+  border: none;
+}
+
+
+form {
+  padding: 50px;
+  text-align: center;
+}
+
+select{
+  position: fixed;
+}
