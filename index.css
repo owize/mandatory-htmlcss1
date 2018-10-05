@@ -73,6 +73,7 @@ button:hover {background-color:#D61A1F }
 
 table{
   border-collapse: collapse; width: 100%;
+
 }
 
 table, td, th {border: 3px solid black; padding: 20px;}
@@ -93,6 +94,7 @@ tr :last-child {color: #D61A1F; font-size: 20px;}
 
 fieldset{
   border: none;
+
 }
 
 
